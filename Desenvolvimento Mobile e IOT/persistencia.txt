@@ -1,0 +1,9 @@
+persistência
+
+shared preferences - 1 registro, status do registro (verdadeiro ou falso, sim ou não), é usado pra mudar configurações (tipo whatsapp)
+		   - salvar arquivos
+		   - a classe sharedPreferences chama o getPreferences(int P) ou getSharedPreferences(String P1, int P2)
+		   - MODE_PRIVATE
+		   - metodo edit retorna a interface Editor
+		   - putBoolean(valor)
+ 

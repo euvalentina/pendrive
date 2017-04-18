@@ -1,0 +1,18 @@
+Network Architeture
+
+1 Semestre
+Apresentar artigo sobre redes padrão IEEE-802.11AC e sua aplicação na atualidade 
+
+2 Semestre
+Apresentar projeto de Redes para hospedagem de Site
+Contendo
+1 Servidor WEB que responda com a página Html pessoal
+1 Switch
+2 Computadores Desktop
+1 Access-Point
+1 Tablet
+Todos os computadores devem acessar a página do Servidor WEB pelo Nome www.TRAB1.com
+Apresentar plano de endereço IP para todos os componentes.
+
+Trabalhos do 1º Semestre devem ser enviados para o meu e-mail até o dia 13/05
+Trabalhos do 2º Semestre devem ser enviados para o meu e-mail até o dia 11/10

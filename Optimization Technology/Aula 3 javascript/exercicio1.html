@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>JavaScript</title>
+
+
+    <script>
+      var empresa = "FIAP Tecnologia"; //literal primitiva
+      console.log(empresa); //Nome da variavel
+      console.log(empresa.length); //Tamanho da string
+
+      // Começando do 0, a posição onde começa a parte procurada
+      console.log(empresa.indexOf("Tecno")); // retorna 5
+
+      // Começando do 0, retorna o caracter da posição 5
+      console.log(empresa.charAt(5)); // retorna T
+
+      // Extrai uma quantidade de caracteres a partir da posição inicial
+      console.log(empresa.substr(5,6)); // retorna Tecnol
+
+      // Substutui a parte tecnologia por digital
+      console.log(empresa.replace("Tecnologia", "Digital"));
+      console.log(empresa);
+
+      entidade = empresa.replace("Tecnologia", "Digital");
+      console.log(entidade);
+
+      var vinte = 20; //Number
+      console.log(vinte);
+
+      var textoInteiro = "20"; //Tipo string;
+      console.log(typeof textoInteiro);
+
+      //Conversão
+      var inteiro = parseInt(textoInteiro, 10);
+      console.log(typeof inteiro);
+
+      var textoFloat = "10.22";
+      console.log(typeof textoInteiro);
+
+      //Conversão
+      var floats = parseFloat(textoFloat);
+      console.log(typeof floats);
+
+      var milNumber = 1000;
+      var milString = milNumber.toFixed(2);
+      console.log(milString);
+
+      var tipo = true; //Tipo literal
+      console.log(typeof tipo);
+    </script>
+
+
+  </head>
+
+  <body>
+
+
+    <script type="text/javascript"></script>
+  </body>
+</html>

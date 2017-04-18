@@ -1,0 +1,17 @@
+Marketing
+
+Indicadores de desempenho
+
+Funil do marketing
+	Visitantes - novos, atigos, taxa de rejeição do visitante
+	Leads - custo por lead, campanha, landing page
+	Oportunidades 
+	Clientes - taxa de conversão, ticket médio (quanto tempo o cliente gasta), meta de venda, CAC (custo de aquisição de cliente investimento necessário para conquisar o cliente)
+
+formula do CAC - valor da campanha / clientes
+
+Campanhas - precisa de um lucro
+	o valor da campanha nunca pode ultrapassar o ticket médio
+	se o cac for menor que o ticket médio, pode fazer a campanha
+
+NAC 25/04 (dupla)

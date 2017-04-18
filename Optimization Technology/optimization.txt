@@ -1,0 +1,19 @@
+Framework - Programa (sublime)
+
+Bootstrap
+
+tag container - site todo
+	- container- largura ajustável
+	- container.fluid- 100%
+
+grids
+	rows - linha	
+	cols - coluna (12 divisões)
+	
+Vaiáveis javascript
+	string
+	number 
+	boolean
+
+	Console.log --> mostrar o resultado no console e não na página.
+	

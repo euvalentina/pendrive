@@ -1,0 +1,88 @@
+Portais corporativos e colaborativos
+
+Portais: mudanças constantes no modelo de negócio
+
+Pagina web é sobre um só tema
+
+Portal é sobre várias coisas (ig, globo, uol, yahoo, msn)
+	pesquisa booleana - utilização de operadores lógicos
+	pesquisa por categoria - filtrar pesquisa
+	personalização - responde um questionário dos seus interesses
+	funções expandidas - aumentou interatividade, chats, debate, comentários
+
+colaborativos
+
+corporativos
+	usando a mesma tecnologia dos portais
+	--> 4 gerações
+		referencial - gestão de conteúdo
+		personalizado - personalização de conteudo (feed rss)
+		interativo - calendário, agenda, relatorios
+		especializado - comercio eletronico, usando negócio
+
+portal 	público
+	verticais
+	  - niveis de interesse 
+	horizontais
+	industriais
+	informações empresariais
+	gestão do conhecimento
+	recursos empresariais
+	negocios
+	TI
+	Business to business
+	Business to employee
+
+Empreendedorismo
+	Descrição da empresa
+		Setor da abrangência (atuação- virtual, física, produto, serviço, nicho de mercado, público alvo)
+		Porte (tamanho da empresa, numero de funcionarios, capital investindo)
+		Modalidade (tipo de produto a ser desenvolvido, detalhar definição do produto)
+		Localização (area de abrangência do serviço, logal, regional, nacional, internacional)
+
+	Definição de negócio
+		definir a area de atuação, não pode voltar pra tras.
+		Componentes
+			definição da área de mercado	
+			forma de atuação no segmento
+			identificar a necessidade do cliente
+			definir objetivo principal
+			pesquisa de mercado
+			analise de aceitação
+			compreensão 
+			absorção por parte do publico alvo
+			
+	
+Visão, missão e valores
+	Origem da empresa: motivo para que foi desenvolvida
+	Objetivos: compromisso
+	Clareza: 
+
+Importância: 
+	Estabelece uma direção comum a todos na empresa
+	Contribui para que todos trabalhem visando os próprios resultados.
+	Previne o conflito entre os interesses dos colaboradores.
+	Determina com clareza os objetivos aos colaboradores
+	Proporciona o uso racional dos recursos da empresa
+	Contribui para o desenvolvimento contínuo 	
+
+Perguntas para escrever missão da empresa
+	O que a empresa deve fazer?
+	Para quem ela deve fazer?
+	Para que ela deve fazer?
+	Como ela deve fazer?
+	Onde ela deve fazer?
+	Qual a responsabilidade social deve ter?
+
+Visão organizacional
+	Futuro: representa o objetivo da empresa a longo prazo
+	Objetivos: sonhos do empreendedor alinhados ao que a empresa realmente coseguirá ser
+	Norte: ponto norteador que irá guia os colaboradores em direção aos objetivos estratégicos da empresa
+	
+Frase de efeito (discurso de elevador)
+	Pensar como um breve comecial
+	Declaração de uma frase de efeito
+	Resumo dos objetivos, missão, visão
+	Tempo de um aperto de mão ou no elevador
+
+

@@ -1,0 +1,10 @@
+git init
+git config --global user.name "valentina"
+git config --global user.email "email"
+
+**** Para subir de novo ****
+git status
+git add .
+git commit -m "descrição"
+git remote add origin ** https://github.com/euvalentina/Bandeiras.git
+git push -u origin master

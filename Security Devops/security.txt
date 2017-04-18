@@ -1,0 +1,36 @@
+linux
+  - kali
+  - cyborg
+
+  - metaspoitable
+  - BWA OWASP
+  - Dojo
+  
+  - Apache
+  - Nginx
+
+
+Segurança da informação
+- Confidencialidade
+- Integridade
+- Disponibilidade
+
+(VA) Analise de Vulnerabilidade (nac)
+	Identificação de escopo(endereço de IP, porta, serviço, versão, o que testar, quando, como)
+	teste por terceiros (greybox- informações do alvo ou blackbox- simulassão sem informações)
+	1- escopo
+	2- levantamento de informações (black s/ informações e greybox c/ algumas informações do alvo)
+	3- escaneamento de rede (nmap - windows) e escaneamento de U.A (nikto , w3af e nessus - linux)
+	
+SQLI
+ATAQUES_
+-> full view
+-> simple query
+	Banco de dados
+	USUARIO----- deus' OR '1'='1 = user
+	USUARIO----- select accounts where admin' order by 1,2 -- 
+	 
+	
+
+
+
